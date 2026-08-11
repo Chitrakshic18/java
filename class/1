@@ -1,0 +1,6 @@
+class Student {
+public static void main(String[] args) {
+String name = &quot;Ritche&quot;;
+int age = 20;
+System.out.println(&quot;Name: &quot; + name);
+System.out.println(&quot;Age: &quot; + age);
